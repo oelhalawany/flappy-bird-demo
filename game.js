@@ -1,5 +1,5 @@
 /* ============================================================
-   Flappy Bird — HTML5 Canvas
+   Flappy Demo — HTML5 Canvas
    Pure JS, no assets. Works on desktop + mobile (tap to flap).
    ============================================================ */
 'use strict';
@@ -435,8 +435,8 @@ function drawReadyUI() {
   ctx.lineWidth = 6;
   ctx.strokeStyle = '#3a3a3a';
   ctx.fillStyle = '#fff';
-  ctx.strokeText('FLAPPY BIRD', W / 2, 130);
-  ctx.fillText('FLAPPY BIRD', W / 2, 130);
+  ctx.strokeText('FLAPPY DEMO', W / 2, 130);
+  ctx.fillText('FLAPPY DEMO', W / 2, 130);
 
   // tap hint (pulsing)
   const a = 0.55 + Math.sin(frames / 14) * 0.35;

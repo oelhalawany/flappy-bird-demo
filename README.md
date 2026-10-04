@@ -1,8 +1,10 @@
-# 🐦 Flappy Bird — HTML5 Demo
+# 🐦 Flappy Demo
 
-A pure HTML5/CSS/JavaScript Flappy Bird clone. No frameworks, no assets, no build step — just three files.
+A pure HTML5/CSS/JavaScript arcade game. No frameworks, no assets, no build step — just three files.
 
 **Play it:** https://oelhalawany.github.io/flappy-bird-demo/
+
+> **Disclaimer:** This is a non-commercial demo project made for learning purposes only. It is not affiliated with or endorsed by any existing game or its rights holders. All code and graphics here were written from scratch for this project.
 
 ## Features
 
